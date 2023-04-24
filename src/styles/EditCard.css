@@ -1,0 +1,9 @@
+.form-container{
+   padding: 20px;
+   width:100%;
+}
+.form-button{
+   text-align: right;
+   padding-block: 10px;
+   border-top: 2px solid rgb(165, 159, 159);
+}
